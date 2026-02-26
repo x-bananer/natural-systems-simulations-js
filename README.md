@@ -16,4 +16,4 @@ In this project, Perlin noise is mapped to brightness to represent a density fie
 Brighter areas correspond to higher “density” values and appear as clouds, while darker areas represent empty sky.
 This simple mapping produces visually plausible cloud-like structures without any physical fluid simulation.
 
-![Perlin noise clouds example](./images/perlin-clouds.png)
+![Perlin noise clouds example](./perlin-clouds.png)
